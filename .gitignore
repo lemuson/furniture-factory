@@ -1,0 +1,51 @@
+## Visual Studio & DotNet
+.vs/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.dbmdl
+*.opendb
+*.VC.db
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+packages/*
+!packages/repositories.config
+
+# Temporary and Cache files
+*.tmp
+*.temp
+*.log
+*.cache
+*.pidb
+*.vshost.*
+*.VC.opendb
+
+# Windows Desktop
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE and Editor files
+.idea/
+*.swp
+*~
